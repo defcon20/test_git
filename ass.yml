@@ -1,3 +1,5 @@
+TeweiFag:
+
   # Version of ruby to use
   ruby:
     version:
@@ -8,3 +10,5 @@
     circlehost: 127.0.0.1
     dev.mycompany.com: 127.0.0.1
 
+Yixin:
+  - Awesome
